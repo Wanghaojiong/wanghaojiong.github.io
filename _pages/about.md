@@ -49,6 +49,21 @@ To be updated...
 <br>
 
 # 💼 Experience
+## 1. Researcher  
+Lab for Neural Computation and Adaptation, **RIKEN** Center for Brain Science, Japan
+Jul. 2024 - present | full time  
+
+<u>“Large-Scale Representation Learning & Multimodal Modeling”</u>
+- Designed and implemented large-scale data processing pipelines for multimodal brain–behavior datasets, enabling scalable machine learning experimentation across heterogeneous data sources.
+- Built multimodal ML pipelines integrating neural signals (fNIRS) and behavioral data for cross-subject representation learning.
+- Developed deep learning models (Temporal CNN and Graph Neural Networks) to analyze high-dimensional time-series data.
+- Built reproducible ML workflows for data preprocessing, feature engineering, model training, and experiment tracking.
+- Conducted large-scale data analysis and benchmarking to evaluate model robustness and performance.
+
+<b><u>Key Skills</u></b>:  
+<u>Python · PyTorch · Data Pipelines · Multimodal Data Processing · Time-Series Analysis · GPU Training</u>
+
+
 
 <br>
 
