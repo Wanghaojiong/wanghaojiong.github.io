@@ -25,18 +25,19 @@ To be updated...
 <ul>
   <li>
     <strong>Hokkaido University (2020/10-2023/12), Japan</strong>  
+    <img src="../images/UniversityHokkaido_x200.jpg" alt="Hokkaido" width="50" height="50">
     <br>
     <u>Ph.D.</u>, Information Science. Graduate School of Information Science and Technology
-    <br>
-    ![Hokkaido University](./images/UniversityHokkaido_x200.jpg)
   </li>
   <li>
     <strong>University of Southampton (2018/09-2019/09), UK</strong>  
+    <img src="../images/UniversitySouthampton_x200.png" alt="Hokkaido" width="75" height="75">
     <br>
     <u>M.S.</u>, Science. School of Electronics and Computer Science
   </li>
   <li>
     <strong>Southwest Minzu University (2013/09-2017/06), China</strong>  
+    <img src="../images/UniversitySouthwestMinzu_x200.png" alt="Hokkaido" width="50" height="50">
     <br>
     <u>B.S.</u>, Engineering. School of Electrical Engineering and Automation
   </li>
