@@ -113,7 +113,7 @@ Inner Mongolia Power Company, China <img src="../images/InnerMongoliaGrid_x200.j
 - Gained exposure to power system operational workflows and control-oriented engineering environments, including documentation related to equipment operation and system stability procedures.
 
 ## 6. Engineering Intern
-Huadian Knowlink Tech. Co., Ltd., China <img src="../images/HuadianKnowlink_x200.jpg" alt="Hokkaido" width="50" height="50">
+Huadian Knowlink Tech. Co., Ltd., China <img src="../images/HuadianKnowlink_x200.jpg" alt="Hokkaido" width="40" height="40">
 <br>Jun. 2017 – Sep. 2017 | Internship  
 
 - Participated in R&D for IoT communication hardware systems.
