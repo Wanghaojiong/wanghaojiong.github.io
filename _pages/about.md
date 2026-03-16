@@ -37,7 +37,7 @@ To be updated...
   </li>
   <li>
     <strong>Southwest Minzu University (2013/09-2017/06), China</strong>  
-    <img src="../images/UniversitySouthwestMinzu_x200.png" alt="Hokkaido" width="50" height="50">
+    <img src="../images/UniversitySouthwestMinzu_x200.png" alt="Hokkaido" width="45" height="45">
     <br>
     <u>B.S.</u>, Engineering. School of Electrical Engineering and Automation
   </li>
@@ -79,7 +79,7 @@ Graduate School of Information Science and Technology, Hokkaido University, Japa
 
 <b><u>Key Skills</u></b>:  
 <u>Graph Learning · Computer Vision · Image Processing · Time-Series Forecasting · Deep Learning · Data Pipeline Design · Data Analytics · Python · SQL</u>  
-
+<br>
 <u>“Teaching & Academic Support”</u>
 - Assisted the professor with academic book editing, including technical proofreading, content organization, and revision coordination.
 - Delivered practical lab and tutorial sessions for Complex Systems Modeling courses for both undergraduate and postgraduate students.
@@ -116,8 +116,33 @@ Inner Mongolia Power Company, China <img src="../images/InnerMongoliaGrid_x200.j
 Huadian Knowlink Tech. Co., Ltd., China <img src="../images/HuadianKnowlink_x200.jpg" alt="Hokkaido" width="50" height="50">
 <br>Jun. 2017 – Sep. 2017 | Internship  
 
+- Participated in R&D for IoT communication hardware systems.
+- Assisted in validation testing, performance evaluation, and technical documentation for smart grid terminal devices.
+- Gained hands-on experience in system-level debugging and cross-functional engineering collaboration.
+<br>
 
+## Group Research
+## 1. Team Leader, Master's Project
+School of Electronics and Computer Science (ECS), University of Southampton, UK <img src="../images/UniversitySouthampton_x200.png" alt="Hokkaido" width="75" height="75">
+<br>Apr. 2019 – Jul. 2019  
 
+<u>“Robustness Analysis of Generative Models under Noise Perturbation”</u>
+- Implemented and trained generative models (GAN and Variational Autoencoder) for image synthesis tasks using Python-based deep learning frameworks.
+- Designed a controlled evaluation framework to analyze robustness of generative models under Gaussian noise perturbations, systematically measuring degradation in generated image quality.
+- Conducted quantitative benchmarking and qualitative visual analysis to compare model stability across noise levels.
+- Built experimental pipelines for model training, evaluation, and reproducibility.
+- Led project coordination, experimental design, and final dissertation preparation, ensuring reproducible experiments and clear technical reporting; presented the work on behalf of the team.
+
+<b><u>Key Skills</u></b>:  
+<u>Computer Vision · Image Generation · Generative Models · Model Evaluation · Experimental Benchmarking · Python</u>  
+
+## 2. Team Leader, Student Innovation & Entrepreneurship Training Program (SIETP)
+School of Electrical Engineering and Automation, Southwest Minzu University (SWUN), China <img src="../images/UniversitySouthwestMinzu_x200.png" alt="Hokkaido" width="45" height="45">
+<br>Sep. 2015 – Mar. 2016  
+
+- Assisted development and validation of a child-safety smart socket prototype, focusing on fail-safe behavior (automatic cut-off under abnormal current conditions, safe recovery after faults).
+- Contributed to hardware integration (module wiring, component coordination) and firmware refinement (feature debugging, stability improvements).
+- Collaborated within a cross-functional student team to iterate on design requirements and presented the work on behalf of the team.
 
 <br>
 
