@@ -27,6 +27,8 @@ To be updated...
     <strong>Hokkaido University (2020/10-2023/12), Japan</strong>  
     <br>
     <u>Ph.D.</u>, Information Science. Graduate School of Information Science and Technology
+    <br>
+    ![Hokkaido University](./images/UniversityHokkaido_x200.jpg)
   </li>
   <li>
     <strong>University of Southampton (2018/09-2019/09), UK</strong>  
