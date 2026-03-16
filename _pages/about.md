@@ -50,8 +50,8 @@ To be updated...
 
 # 💼 Experience
 ## 1. Researcher  
-Lab for Neural Computation and Adaptation, **RIKEN** Center for Brain Science, Japan
-Jul. 2024 - present | full time  
+Lab for Neural Computation and Adaptation, **RIKEN** Center for Brain Science, Japan <img src="../images/Riken.jpg" alt="Hokkaido" width="100" height="100">
+<br>Jul. 2024 - present | full time  
 
 <u>“Large-Scale Representation Learning & Multimodal Modeling”</u>
 - Designed and implemented large-scale data processing pipelines for multimodal brain–behavior datasets, enabling scalable machine learning experimentation across heterogeneous data sources.
@@ -61,7 +61,61 @@ Jul. 2024 - present | full time
 - Conducted large-scale data analysis and benchmarking to evaluate model robustness and performance.
 
 <b><u>Key Skills</u></b>:  
-<u>Python · PyTorch · Data Pipelines · Multimodal Data Processing · Time-Series Analysis · GPU Training</u>
+<u>Python · PyTorch · Data Pipelines · Multimodal Data Processing · Time-Series Analysis · GPU Training</u>  
+
+## 2. Research Assistant
+Graduate School of Information Science and Technology, Hokkaido University, Japan <img src="../images/UniversityHokkaido_x200.jpg" alt="Hokkaido" width="50" height="50">
+<br>Dec. 2020 – Mar. 2021; Oct. 2023 – Dec. 2023 | part-time  
+
+<u>“ML & Graph-Based Modeling”</u>
+- Designed multi-source data pipelines integrating ecological, geographical, and anthropogenic signals for large-scale spatiotemporal modeling.
+- Developed causality-aware Graph Neural Network frameworks for dynamic system simulation and forecasting under distribution shift.
+- Conducted large-scale time-series analysis and robustness evaluation to support data-driven decision-making strategies.
+
+<u>“Data Science & Social Media & Computer Vision Analytics”</u>
+- Analyzed large-scale Twitter datasets (COVID-19 related) to model temporal and geographic attention dynamics.
+- Implemented and benchmarked deep learning models for fine-grained image classification (humpback whale identification), evaluating model robustness under limited-label conditions.
+- Explored multi-model ensembling strategies to improve performance in scarce-sample scenarios
+
+<b><u>Key Skills</u></b>:  
+<u>Graph Learning · Computer Vision · Image Processing · Time-Series Forecasting · Deep Learning · Data Pipeline Design · Data Analytics · Python · SQL</u>  
+
+<u>“Teaching & Academic Support”</u>
+- Assisted the professor with academic book editing, including technical proofreading, content organization, and revision coordination.
+- Delivered practical lab and tutorial sessions for Complex Systems Modeling courses for both undergraduate and postgraduate students.
+- Supported curriculum delivery end-to-end: conducted pre-session assessments, co-developed teaching resources with other presenters, and handled coursework marking and feedback.
+- Assisted with research operations, including refining experimental models, analyzing experimental results, and equipment maintenance.
+- Supported the organization and delivery of international seminars, including session logistics and on-site coordination.
+
+## 3. Engineering Intern
+Inner Mongolia Power (Group) Co., Ltd., Bayannur Large User Center, China <img src="../images/InnerMongoliaGrid_x200.jpg" alt="Hokkaido" width="50" height="50">
+<br>Oct. 2019 – Sep. 2020| Internship  
+
+- Assisted engineers in reviewing and verifying substation system documentation and equipment specifications to ensure compliance with operational and safety standards.
+- Supported technical workflow optimization by organizing engineering regulatory systems and improving documentation traceability.
+- Participated in system-level verification and validation processes for power infrastructure operations, gaining experience with reliability analysis and control-oriented engineering practices.
+- Developed an understanding of feedback-driven system design and reliability considerations in complex infrastructure systems, which later informed my interest in building reliable data and analytics systems.
+
+## 4. Teaching Assistant
+School of Electronics and Computer Science (ECS), University of Southampton, UK <img src="../images/UniversitySouthampton_x200.png" alt="Hokkaido" width="75" height="75">
+<br>Oct. 2018 – May. 2019 | part-time  
+
+- Supported undergraduate modules in Computer Vision, Machine Learning (Foundations/Advanced), Signal Processing, Control System Design, Computational Finance, and Advanced Systems & Signal Processing by assisting with lab sessions, troubleshooting technical issues, and providing student guidance.
+- Helped maintain course technical materials (e.g., experiment setup, code templates, and debugging support) and ensured smooth delivery of hands-on components.
+
+## 5. Engineering Intern
+Inner Mongolia Power Company, China <img src="../images/InnerMongoliaGrid_x200.jpg" alt="Hokkaido" width="50" height="50">
+<br>Oct. 2017 – Jul. 2018| Internship  
+
+- Supported engineering teams with bilingual technical documentation review and translation for power system equipment and operational procedures.
+- Assisted in organizing and updating technical manuals, system reports, and operational documentation to ensure accuracy, consistency, and compliance with engineering standards.
+- Coordinated technical information exchange between internal engineering teams and external partners during infrastructure documentation and system update processes.
+- Gained exposure to power system operational workflows and control-oriented engineering environments, including documentation related to equipment operation and system stability procedures.
+
+## 6. Engineering Intern
+Huadian Knowlink Tech. Co., Ltd., China <img src="../images/HuadianKnowlink_x200.jpg" alt="Hokkaido" width="50" height="50">
+<br>Jun. 2017 – Sep. 2017 | Internship  
+
 
 
 
