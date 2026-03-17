@@ -151,10 +151,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badges">
-      <div class="badge conference-badge">TGRS 2024</div>
-      <div class="badge spotlight-badge">ESI Hot Paper / ESI Highly Cited Paper</div>
-    </div>
     <img src='images/Journal-1.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -168,9 +164,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
   <div class="paper-links">
     <a class="paper-link" href="https://ieeexplore.ieee.org/document/10565926" title="Paper">
       <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/MambaCD" title="Code">
-      <i class="fas fa-file-code"></i> Code
     </a>
   </div>
   </div>
