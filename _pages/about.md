@@ -149,31 +149,24 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 # 📜 Research and Publications 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badges">
+    <!--<div class="badges">
       <div class="badge conference-badge">ESSD 2025</div>
-      <div class="badge spotlight-badge">IEEE GRSS Data Fusion Contest 2025</div>
     </div>
-    <img src='images/overall.jpg' alt="sym" width="100%">
+    -->
+    <img src='images/Journal-1.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [Bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html)
-
-  Hongruixuan Chen, **Jian Song**, Olivier Dietrich, Clifford Broni-Bediako, Weihao Xuan, Junjue Wang, Xinlei Shao, Yimin Wei, Junshi Xia, Cuiling Lan, Konrad Schindler, Naoto Yokoya
-
-  <em>Earth System Science Data (ESSD), 2025.</em> 
-  <span style="color: #ff4500; font-weight: bold;">*IEEE GRSS Data Fusion Contest 2025 Official Dataset* </span>
-
-  <div class="paper-links">
-    <a class="paper-link" href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html1" title="Paper">
-      <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Code">
-      <i class="fas fa-file-code"></i> Code
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Data">
-      <i class="fas fa-database"></i> Data
-    </a>
-  </div>
+    <b>Journal:</b>
+    <br>
+    <u>Wang H*</u>, Convertino M. Algal Bloom Ties: Systemic Biogeochemical Stress and Chlorophyll-a Shift Forecasting[J].
+    <br>
+    <em>Ecological Indicators, 2023, 154: 110760.</em> 
+    <!--<div class="paper-links">
+      <a class="paper-link" href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html1" title="Paper">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+    -->
   </div>
 </div>
 
