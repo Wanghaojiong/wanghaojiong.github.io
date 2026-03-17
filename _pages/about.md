@@ -154,8 +154,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
     <img src='images/Journal-1.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://ieeexplore.ieee.org/document/10565926)
-
   <u>Wang H*</u>, Convertino M. Algal Bloom Ties: Systemic Biogeochemical Stress and Chlorophyll-a Shift Forecasting[J]
 
   <em>Ecological Indicators, 2023, 154: 110760.</em> 
