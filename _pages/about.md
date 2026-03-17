@@ -158,11 +158,10 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
   Hongruixuan Chen<span>*</span>, <strong>Jian Song<span>*</span></strong>, Chengxi Han, Junshi Xia, Naoto Yokoya
 
-  <em>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024.</em> 
-  <span style="color: #ff4500; font-weight: bold;">*ESI Hot Paper / ESI Highly Cited Paper*</span>
+  <em>Ecological Indicators, 2023, 154: 110760.</em> 
 
   <div class="paper-links">
-    <a class="paper-link" href="https://ieeexplore.ieee.org/document/10565926" title="Paper">
+    <a class="paper-link" href="" title="Paper">
       <i class="fas fa-file-pdf"></i> Paper
     </a>
   </div>
