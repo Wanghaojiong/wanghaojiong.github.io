@@ -160,11 +160,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
   <em>Ecological Indicators, 2023, 154: 110760.</em> 
 
-  <div class="paper-links">
-    <a class="paper-link" href="" title="Paper">
-      <i class="fas fa-file-pdf"></i> Paper
-    </a>
-  </div>
   </div>
 </div>
 
