@@ -147,6 +147,7 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 <br>
 
 # 📜 Research and Publications 
+## Journal:  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!--<div class="badges">
@@ -156,8 +157,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
     <img src='images/Journal-1.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-    <b>Journal:</b>
-    <br>
     <u>Wang H*</u>, Convertino M. Algal Bloom Ties: Systemic Biogeochemical Stress and Chlorophyll-a Shift Forecasting[J].
     <br>
     <em>Ecological Indicators, 2023, 154: 110760.</em> 
