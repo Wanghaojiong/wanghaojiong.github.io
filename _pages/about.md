@@ -293,23 +293,13 @@ English, Chinese, and Japanese (growing)
 <!-- Content Section -->
 <p style="text-align: center;">
   <div id="clustrmaps-widget" style="max-width: 20%; margin: 0 auto;">
-    <script 
-      type="text/javascript" 
-      id="clustrmaps" 
-      src="//clustrmaps.com/map_v2.js?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
-      async>
-    </script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eQ8kAcZ63VLC4Bmz8uWEW7ztLO_19RT7WHITitcO7MQ&cl=ffffff&w=a"></script>
     <noscript>
-      <a href="https://clustrmaps.com/site/1bj1k" title="Visitor Map">
-        <img 
-          src="//clustrmaps.com/map_v2.png?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
-          alt="Visitor Map" 
-          style="max-width: 20%; height: auto;">
-      </a>
+      <a href="https://clustrmaps.com/site/1c9hl" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=eQ8kAcZ63VLC4Bmz8uWEW7ztLO_19RT7WHITitcO7MQ&cl=ffffff"></a>
     </noscript>
   </div>
   <p style="text-align:center;">
-    &copy; Jian Song | Last updated: Dec 8, 2025
+    &copy; Haojiong WANG | Last updated: March, 2026
   </p>     
 </p>
 
