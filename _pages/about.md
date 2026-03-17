@@ -173,9 +173,33 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 </div>
 
 ## International Conference:  
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Conference-1.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <u>Wang H*</u>, Tsutsui H, Convertino M. Classification of Rich-Classes but Scarce-Samples Images via Multi-Modeling: the Humpback Whale Epitome[C]
+
+  <em>2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech). IEEE, 2022: 286-288. Osaka, Japan. (Oral)</em> 
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Conference-2.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <u>Wang H*</u>, Galbraith E, Convertino M. Risky Blooms: Space-Time Chlorophyll-a Analysis and Forecasting[C]
+
+  <em>22nd International Symposium on Communications and Information Technologies (ISCIT). IEEE, 2023: 252-256. Sydney, Australia (Oral)</em> 
+
+  </div>
+</div>
 
 
 
+<br>
 
 # 🛠 Skills
 ## Core Expertise
