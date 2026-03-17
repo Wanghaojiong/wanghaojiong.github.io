@@ -197,7 +197,57 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
   </div>
 </div>
 
+## Book Chapter: 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/BookChapter-1.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Convertino M*, <u>Wang H*</u>. Envirome Disorganization and Ecological Riskscapes: The Algal Bloom Epitome[M]
 
+  <em>Risk Assessment for Environmental Health. CRC Press, 2022: 327-346.</em> 
+
+  </div>
+</div>
+
+## Abstract Oral: 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/AbstractOral-1.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <u>Wang H*</u>, Toyoizumi T. From Subjective Reports to Brain Networks: A Questionnaire-Based GNNs for the Rubber Hands Illusion States Classification
+
+  <em>The Japanese Neurological Society (JNS). Niigata. July 2025.</em> 
+
+  </div>
+</div>
+
+## Poster: 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Poster-1.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <u>Wang H*</u>, Toyoizumi T. Identification of Rubber Hand Illusion Brain States Using Dynamic Graph Neural Networks and Subjective Questionnaires
+
+  <em>RIKEN Summer Program. July 2025.</em> 
+
+  </div>
+</div>
+
+## Preprint: 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Preprint-1.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Jonson Carlon MK*, Noe SM, <u>Wang H*</u>, Kuniyoshi Y. Topology Matters: A Cautionary Case Study of Graph SSL on Neuro-Inspired Benchmarks [J]
+
+  <em>arXiv preprint, 2026: arXiv:2602.03217. doi:10.48550/arXiv.2602.03217.</em> 
+
+  </div>
+</div>
 
 <br>
 
