@@ -148,7 +148,6 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
 # 📜 Research and Publications 
 ## Journal:  
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='images/Journal-1.jpg' alt="sym" width="100%">
@@ -160,6 +159,20 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Journal-2.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <u>Wang H*</u>, Galbraith E, Convertino M. Algal Bloom Ties: Spreading Network Inference and Extreme Eco-Environmental Feedback[J]
+
+  <em>Entropy, 2023, 25(4): 636.</em> 
+
+  </div>
+</div>
+
+## International Conference:  
 
 
 
