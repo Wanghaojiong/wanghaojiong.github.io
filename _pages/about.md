@@ -148,19 +148,31 @@ School of Electrical Engineering and Automation, Southwest Minzu University (SWU
 
 # 📜 Research and Publications 
 ## Journal:  
+
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">TGRS 2024</div>
+      <div class="badge spotlight-badge">ESI Hot Paper / ESI Highly Cited Paper</div>
+    </div>
     <img src='images/Journal-1.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-    Algal Bloom Ties: Systemic Biogeochemical Stress and Chlorophyll-a Shift Forecasting[J].  
-    <br><u>Wang H*</u>, Convertino M.  
-    <br><em>Ecological Indicators, 2023, 154: 110760.</em> 
-    <div class="paper-links">
-      <a class="paper-link" href="" title="Paper">
-        <i class="fas fa-file-pdf"></i> Paper
-      </a>
-    </div>
+  [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://ieeexplore.ieee.org/document/10565926)
+
+  Hongruixuan Chen<span>*</span>, <strong>Jian Song<span>*</span></strong>, Chengxi Han, Junshi Xia, Naoto Yokoya
+
+  <em>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024.</em> 
+  <span style="color: #ff4500; font-weight: bold;">*ESI Hot Paper / ESI Highly Cited Paper*</span>
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://ieeexplore.ieee.org/document/10565926" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/ChenHongruixuan/MambaCD" title="Code">
+      <i class="fas fa-file-code"></i> Code
+    </a>
+  </div>
   </div>
 </div>
 
